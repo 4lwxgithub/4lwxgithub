@@ -1,7 +1,7 @@
 ### Hi there, I'm Alex - here is a link to my [website][website] 👋
 
-[<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v11.0" nonce="0DEchL2a"></script>](https://www.facebook.com/profile.php?id=100022924973376)
+[<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100022924973376&width=0&layout=standard&action=like&size=small&share=true&height=35&appId" width="0" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>](https://www.facebook.com/profile.php?id=100022924973376)
+
 [![Twitter](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I am a inspiring Front-End Developer..
