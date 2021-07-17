@@ -1,7 +1,7 @@
 ### Hi there, I'm Alex 👋
 
 <p align="center">
-  <img src="Banner.jpg" height="auto" width="auto">
+  <img src="Banner.png" height="auto" width="auto">
 </p>
 
 ## I am a inspiring Front-End Developer..
