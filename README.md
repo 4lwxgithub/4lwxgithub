@@ -7,6 +7,15 @@
 - 🥅  2021 Goals: Create my own website 
 - ⚡  Fun fact: I love to draw and play guitar / drums
 
+---
+
+### 📕 Current languages learning..
+<p align="center">
+  <img src="Banner.png" height="auto" width="auto">
+</p>
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="facebook link" height="30px" width="125px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
@@ -16,13 +25,6 @@
 [<img align="left" alt="gamil link" height="30px" width="125px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
 <br />
-
-### 📕 Current languages learning..
-<p align="center">
-  <img src="Banner.png" height="auto" width="auto">
-</p>
-
----
 
 [facebook]: https://www.facebook.com/profile.php?id=100022924973376
 [twitter]: https://twitter.com
