@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex 👋
 
-![plot](./Bannner.jpg)
+![plot](Bannner.jpg)
 
 ## I am a inspiring Front-End Developer..
 
