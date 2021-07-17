@@ -1,6 +1,8 @@
 ### Hi there, I'm Alex 👋
 
-![plot](Bannner.jpg)
+<p align="center">
+  <img src="Banner.jpg" width="350">
+</p>
 
 ## I am a inspiring Front-End Developer..
 
