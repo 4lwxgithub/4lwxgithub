@@ -1,6 +1,6 @@
-### Hi there, I'm Alex 👋
+## Hi there, I'm Alex 👋
 
-## I am an inspiring Front-End Developer..
+### I am an inspiring Front-End Developer..
 
 - 🎓  I’m currently a 3rd year computer science student 
 - 👯  I’m looking to add more content to my github 
@@ -55,8 +55,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
+### 📕 Current languages learning..
 <p align="center">
   <img src="Banner.png" height="auto" width="auto">
 </p>
