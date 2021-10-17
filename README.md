@@ -10,9 +10,8 @@
 ---
 
 ### 📕 Current languages learning..
-<p align="center">
-  <img src="Banner.png" height="auto" width="auto">
-</p>
+
+<img src="images/js.png" width="100">
 
 ---
 
