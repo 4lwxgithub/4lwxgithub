@@ -12,13 +12,13 @@
 ### 📕 Current languages learning..
 
 <p float="left">
-<img src="images/html.png" width="100">
-<img src="images/css.png" width="100">
-<img src="images/js.png" width="100">
-<img src="images/xml.png" width="100">
-<img src="images/java.png" width="100">
-<img src="images/python.png" width="100">
-<img src="images/mysql.png" width="100">
+<img src="images/html.png" height="50">
+<img src="images/css.png" height="50">
+<img src="images/js.png" height="50">
+<img src="images/xml.png" height="50">
+<img src="images/java.png" height="50">
+<img src="images/python.png" height="50">
+<img src="images/mysql.png" height="50">
 </p>
 
 ---
