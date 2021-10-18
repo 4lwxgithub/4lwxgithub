@@ -9,6 +9,13 @@
 
 ---
 
+### 📕 Current languages learnt..
+<p align="center">
+  <img src="Banner.png" height="auto" width="auto">
+</p>
+
+---
+
 ### 📕 Current languages learning..
 
 <img src="images/js.png" width="100">
