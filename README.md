@@ -33,8 +33,6 @@
 
 <br />
 
-[facebook]: https://www.facebook.com/4lwxfaceboook
 [twitter]: https://twitter.com/ajscott29
-[instagram]: https://www.instagram.com/4lwxinsta
 [linkedin]: https://www.linkedin.com/in/ajscottleicester
-[gmail]: ajscottleicester@gmail.com
+[gmail]: <a href="mailto:ajscottleicester@gmail.com?subject=subject text"/>
