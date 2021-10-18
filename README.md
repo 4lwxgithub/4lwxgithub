@@ -29,7 +29,7 @@
 [<img align="left" alt="twitter link" height="30px" width="125px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="facebook link" height="30px" width="125px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />]
 [<img align="left" alt="instagram link" height="30px" width="125px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />]
-[<img align="left" alt="gamil link" height="30px" width="125px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:ajscottleicester@gmail.com?subject=subject text" />]
+[<img align="left" alt="gamil link" height="30px" width="125px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:ajscottleicester@gmail.com" />]
 
 <br />
 
