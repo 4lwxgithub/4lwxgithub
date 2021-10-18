@@ -9,16 +9,15 @@
 
 ---
 
-### 📕 Current languages learnt..
-<p align="center">
-  <img src="Banner.png" height="auto" width="auto">
-</p>
-
----
-
 ### 📕 Current languages learning..
 
+<img src="images/html.png" width="100">
+<img src="images/css.png" width="100">
 <img src="images/js.png" width="100">
+<img src="images/xml.png" width="100">
+<img src="images/java.png" width="100">
+<img src="images/python.png" width="100">
+<img src="images/mysql.png" width="100">
 
 ---
 
