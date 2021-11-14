@@ -5,7 +5,7 @@
 - 🎓  I’m currently a 3rd year computer science student 
 - 👯  I’m looking to add more content to my github 
 - 🥅  2021 Goals: Create my own website 
-- ⚡  Fun fact: I love to draw and play guitar / drums
+- ⚡  Fun fact: I love to keep fit and read
 
 ---
 
