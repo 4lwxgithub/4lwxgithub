@@ -2,7 +2,7 @@
 
 ### I am an inspiring Front-End Developer..
 
-- 🎓  I’m currently a 3rd year computer science student 
+- 🎓  I’m currently a final year computer science student 
 - 👯  I’m looking to add more content to my github 
 - 🥅  2021 Goals: Create my own website 
 - ⚡  Fun fact: I love to keep fit and read
