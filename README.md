@@ -2,7 +2,7 @@
 
 # Bonjour, I'm Alex Scott! 👋
 
-## I'm a final year student and a frontend developer.
+## I’m looking to add more content to my github 
 
 - 🌱 I’m currently learning C++.
 - 💻 Computer Science Student 
