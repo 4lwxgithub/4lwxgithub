@@ -1,6 +1,6 @@
 
 
-# Bonjour, I'm Alex Scott! 👋
+# Hola, I'm Alex Scott! 👋
 
 ## I’m looking to add more content to my github 
 
