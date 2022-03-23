@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning C++.
 - 💻 Computer Science Student 
 - 🥅 2022 Goals: Experiment, learn and build stuffs with my skillsets. 
-- 👩🏻‍💻 Pronouns:  He/him/his
 - ⚡ Fun fact: I love travelling and going to the gym
 - 💬 Ask me about Tech-related stuff and invite me for group travels 🗺️🧳✈️
 
