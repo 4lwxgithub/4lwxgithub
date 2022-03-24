@@ -43,9 +43,9 @@
 <br/>
 
 Views:
-<img align="center" src="https://profile-counter.glitch.me/{921793F0CFBB564263ECD34BF378C11F}/count.svg"/>
+<img align="center" src="https://profile-counter.glitch.me/{alexjscott}/count.svg"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=921793F0CFBB564263ECD34BF378C11F&count_private=true&show_icons=true&theme=radical"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexjscott&count_private=true&show_icons=true&theme=radical"/>
 <br/>
 
 ---
