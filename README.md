@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/ajscottleicester/" target="_blank">
+<a href="https://www.linkedin.com/" target="_blank">
   <img align="left" alt="Alex Scott | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
