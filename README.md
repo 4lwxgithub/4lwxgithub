@@ -2,7 +2,7 @@
 
 # Hi there, welcome to my GitHub! 👋
 
-## I’m looking to add more content to my github
+<!-- ## I’m looking to add more content to my github -->
 
 - 🌱 I’m currently learning C++.
 - 💻 Computer Science Student 
