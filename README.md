@@ -2,12 +2,12 @@
 
 # Hola, I'm Alex Scott! 👋
 
-## I’m looking to add more content to my github 
+## I’m looking to add more content to my github
 
 - 🌱 I’m currently learning C++.
 - 💻 Computer Science Student 
-- 🥅 2022 Goals: Experiment, learn and build stuffs with my skillsets. 
-- ⚡ Fun fact: I love travelling and going to the gym
+- 🥅 2022 Goals: Experiment, learn and build software with my skillsets. 
+- ⚡ Fun fact: I enjoy keeping fit and love to travel.
 - 💬 Ask me about Tech-related stuff and invite me for group travels 🗺️🧳✈️
 
 ### Connect with me:
