@@ -5,7 +5,7 @@
 <!-- ## I’m looking to add more content to my github -->
 
 - 🌱 I’m currently learning C++.
-- 💻 Computer Science Student 
+- 💻 First Class Honours, Computer Science MSc Graduate.
 - 🥅 2022 Goals: Experiment, learn and build software with my skillsets. 
 - ⚡ Fun fact: I enjoy keeping fit and love to travel.
 - 💬 Ask me about Tech-related stuff and invite me for group travels 🗺️🧳✈️
