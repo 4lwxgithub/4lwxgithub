@@ -8,7 +8,7 @@
 - 💻 First Class Honours, Computer Science MSc Graduate.
 - 🥅 2022 Goals: Experiment, learn and build software with my skillsets. 
 - ⚡ Fun fact: I enjoy keeping fit and love to travel.
-- 💬 Ask me about Tech-related stuff and invite me for group travels 🗺️🧳✈️
+- 💬 Ask me about Tech-related stuff
 
 ### Connect with me:
 
