@@ -37,6 +37,7 @@
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <br>
 <br>
+<br>
 
 ### 📊 View my stats on Github     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjscott&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
