@@ -49,13 +49,9 @@
 <br />
 <br/>
 
-#### 📊 width="50"> View my stats on Github 
+#### 📊 View my stats on Github 
    
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexjscott&count_private=true)
-
-#### See my top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjscott&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexjscott&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjscott&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
