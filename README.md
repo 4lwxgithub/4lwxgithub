@@ -5,17 +5,14 @@
 **`Developer | Tech Enthusiast | Learner`**
 <!-- ## I’m looking to add more content to my github -->
 
-- 🌱 I’m currently learning c.
+
+- 🌱 I’m currently learning micro-services/cloud computing.
 - 💻 First Class Honours, Computer Science MSc Graduate.
 - 🥅 2022 Goals: Experiment, learn and build software with my skillsets. 
 - ⚡ Fun fact: I enjoy keeping fit and love to travel.
 - 💬 Ask me about Tech-related stuff
-
-### Connect with me:
-
-<a href="https://www.linkedin.com/" target="_blank">
-  <img align="left" alt="Alex Scott | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+#### Connect with me :
+<img alt="Alex Scott | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 ### 🧰 Languages and Tools
 
@@ -39,9 +36,11 @@
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-### 📊 View my stats on Github 
-   
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexjscott&count_private=true)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjscott&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+
+### 📊 View my stats on Github     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjscott&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
