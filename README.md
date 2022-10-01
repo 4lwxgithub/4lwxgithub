@@ -4,7 +4,7 @@
 
 <!-- ## I’m looking to add more content to my github -->
 
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning c.
 - 💻 First Class Honours, Computer Science MSc Graduate.
 - 🥅 2022 Goals: Experiment, learn and build software with my skillsets. 
 - ⚡ Fun fact: I enjoy keeping fit and love to travel.
@@ -42,10 +42,12 @@
 <br />
 <br/>
 
-Views:
-<img align="center" src="https://profile-counter.glitch.me/{alexjscott}/count.svg"/>
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+   
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryclenio&count_private=true)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexjscott&count_private=true&show_icons=true&theme=radical"/>
-<br/>
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryclenio&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
