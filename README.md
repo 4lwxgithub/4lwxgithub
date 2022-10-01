@@ -17,11 +17,6 @@
   <img align="left" alt="Alex Scott | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-
-<br/>
-
-<br />
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -43,15 +38,10 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<br />
 
-<br />
-<br />
-<br/>
-
-#### 📊 View my stats on Github 
+### 📊 View my stats on Github 
    
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexjscott&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjscott&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexjscott&count_private=true)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjscott&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
